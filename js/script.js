@@ -1,3 +1,3 @@
 function sam(){
-    alert('Welcome Vamini')
+    alert('Welcome Vamini');
 }
